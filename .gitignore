@@ -4,5 +4,5 @@ npm-debug.log
 
 /.idea
 *.less
-src/images
-index.html
+#src/images
+#index.html
